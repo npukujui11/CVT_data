@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#2D5EA2"
+    android:background="@color/colorPrimary"
     android:orientation="vertical"
     android:visibility="visible">
 
@@ -14,9 +14,9 @@
         android:layout_height="70dp"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="150dp"
-        android:background="#00B0FF"
+        android:background="@color/colorButton"
         android:text="@string/page2_button5"
-        android:textColor="#000000"
+        android:textColor="@color/colorText"
         android:textSize="20sp" />
 
     <Button
@@ -26,9 +26,9 @@
         android:layout_below="@id/button5"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="50dp"
-        android:background="#00B0FF"
+        android:background="@color/colorButton"
         android:text="@string/page2_button6"
-        android:textColor="#000000"
+        android:textColor="@color/colorText"
         android:textSize="20sp" />
 
     <Button
@@ -38,9 +38,9 @@
         android:layout_below="@id/button6"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="50dp"
-        android:background="#00B0FF"
+        android:background="@color/colorButton"
         android:text="@string/page2_button7"
-        android:textColor="#000000"
+        android:textColor="@color/colorText"
         android:textSize="20sp" />
 
     <Button
@@ -50,8 +50,8 @@
         android:layout_below="@id/button7"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="50dp"
-        android:background="#00B0FF"
+        android:background="@color/colorButton"
         android:text="@string/page2_button8"
-        android:textColor="#000000"
+        android:textColor="@color/colorText"
         android:textSize="20sp" />
 </RelativeLayout>

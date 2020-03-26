@@ -27,4 +27,7 @@
     <string name="page3_textView8">发动机油温</string>
     <string name="page3_textView9">发动机油压</string>
 
+    <string name="page4_textView1">蓝牙</string>
+    <string name="page4_textView2">设备</string>
+    <string name="page4_button1">开启/关闭</string>
 </resources>
