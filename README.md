@@ -22,7 +22,7 @@
 Arduino Uno是一款基于**ATmega328P**的微控制器板(R3基本上指国产的Arduino板子)。它有14个数字输入/输出引脚(其中6个可用作PWM输出)，6个模拟输入，16MHz晶振时钟，USB连接，电源插孔，ICSP接头和复位按钮。只需要通过USB数据线连接电脑就能供电、程序下载和数据通讯。
 其硬件资源配置如下
 
-![Arduino Uno引脚图](img/ArduinoUno引脚图.jpg)
+![Arduino Uno引脚图](img/Arduino Uno引脚图.jpg)
 
 
 |参数  |型号和数值  |
