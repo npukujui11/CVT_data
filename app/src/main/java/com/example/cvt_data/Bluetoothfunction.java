@@ -22,7 +22,7 @@ public class Bluetoothfunction extends AppCompatActivity {
     Button btnPaired;  //设置蓝牙开关按钮
     ListView devicelist;  //设置列表展示可连接的蓝牙设备
 
-    private BluetoothAdapter myBluetooth = null;
+    private BluetoothAdapter myBluetooth = null;//
     private Set<BluetoothDevice> pairedDevices;
     public static String EXTRA_ADDRESS = "decive_address";
 
