@@ -17,6 +17,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".BluetoothFunction">
+        </activity>
+        <activity android:name=".DataSample">
+        </activity>
+        <activity android:name=".Language">
+        </activity>
+
     </application>
 
 </manifest>
